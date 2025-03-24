@@ -1,5 +1,7 @@
-# testing_code
+# MATLAB scripts for "Modeling the effectiveness of RT-PCR, RT-LAMP, and antigen testing strategies for COVID-19 control"
 
-This repository contains the code used in the study "Modeling the effectiveness of RT-PCR, RT-LAMP, and antigen testing strategies for COVID-19 control"
+This repository contains the MATLAB code used in the study "Modeling the effectiveness of RT-PCR, RT-LAMP, and antigen testing strategies for COVID-19 control"
+
+
 
 
